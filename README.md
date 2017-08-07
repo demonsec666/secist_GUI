@@ -3,7 +3,7 @@
 
 ## English
 After http://www.ggsec.cn/secsit-GUI.html, we developed our https://github.com/demonsec666/secist_script cli version using Ruby with GTK, xterm etc.A little bit features updated and add new festures, u can use mouse to copy selected text easliy, and paste it with Shift-insert.
-
+If u have good ideas please contact us, Thx and Enjoy!
 ## Chinese (simplified) 
 继 http://www.ggsec.cn/secsit-GUI.html 之后 我将之前的https://github.com/demonsec666/secist_script 命令行版 改写成ruby版 使用GTK、xterm等 环境开发，进行一些小小的改动和编写。其中在xterm 中 使用鼠标将字体选中 是复制 ，Shift-insert是粘贴
 如果有更好的建议或者代码可优化的话 可以联系我，非常感谢！！！！！
