@@ -11,7 +11,9 @@ If u have good ideas please contact us, Thx and Enjoy!
 
 
 ## Install && Usage
+``` shell
 1. git clone https://github.com/demonsec666/secist_GUI.git
 2. chmod -R 777 .
 3. ./setup
 4. wine tdm64-gcc-5.1.0-2\ \(1\).exe 
+```
